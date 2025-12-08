@@ -6,7 +6,7 @@
 
 ## ✨ 在线体验
 
-**立即体验：**我已经搭建好了线上平台，可以在这里配置属于你的圣诞树： [https://tree.ksite.xin/](https://tree.ksite.xin/)
+** 立即体验：**我已经搭建好了线上平台，可以在这里配置属于你的圣诞树： [https://tree.ksite.xin/](https://tree.ksite.xin/)
 
 ## 🎁 项目简介
 
