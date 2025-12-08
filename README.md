@@ -82,8 +82,7 @@
 
 1. **克隆或下载项目**
    ```bash
-   git clone https://github.com/你的用户名/Christmas_tree.git
-   cd Christmas_tree
+   git clone https://github.com/kK-2004/Ai-Gesture-Christmas-Tree.git
    ```
 
 2. **安装依赖**
